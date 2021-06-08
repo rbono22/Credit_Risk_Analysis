@@ -6,6 +6,7 @@ Jill commends you for all your hard work. Piece by piece, you’ve been building
 ## Results: 
 
 ### RandomOverSampler Model
+![first](mod17/mod17_1.png)
 
 ### SMOTE Model
 
