@@ -19,7 +19,7 @@ Jill commends you for all your hard work. Piece by piece, you’ve been building
 
 ### ClusterCentroids Model
 ![third](Mod17_photos/m17_4.png)
-* The balanced accuracy score is down to about 52%.
+* The balanced accuracy score is down to about 53%.
 * The high_risk precision is still 1% only with 63% sensitivity which makes a F1 of 1%
 * Due to the high number of false positives, the low_risk sensitivity is only 40%.
 
