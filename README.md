@@ -9,14 +9,19 @@ Jill commends you for all your hard work. Piece by piece, you’ve been building
 ![first](Mod17_photos/m17_1.png)
 
 ### SMOTE Model
+![second](Mod17_photos/m17_2.png)
 
 ### ClusterCentroids Model
+![third](Mod17_photos/m17_3.png)
 
 ### SMOTEENN Model
+![fourth](Mod17_photos/m17_4.png)
 
 ### BalancedRandomForestClassifier Model
+![fifth](Mod17_photos/m17_5.png)
 
 ### EasyEnsembleClassifier Model
+![sixth](Mod17_photos/m17_6.png)
 
 ## Summary 
 
